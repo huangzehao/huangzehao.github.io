@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Like What You Like: Knowledge Distill via Neuron Selectivity Transfer"
+date:   2017-06-05 22:21:59 +00:00
+image: /images/nst.png
+categories: research
+author: "Zehao Huang"
+authors: "<strong>Zehao Huang</strong>, Naiyan Wang"
+venue: "arxiv"
+arxiv: https://arxiv.org/abs/1707.01219
+---
+We propose a framework for knowledge distillation by minimizing the Maximum Mean Discrepancy.

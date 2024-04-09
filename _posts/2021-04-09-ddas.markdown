@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Direct Differentiable Augmentation Search"
+date:   2021-04-09 22:21:59 +00:00
+image: /images/ddas.png
+categories: research
+author: "Zehao Huang"
+authors: "Aoming Liu*, <strong>Zehao Huang</strong>, Zhiwu Huang, Naiyan Wang"
+venue: "ICCV"
+arxiv: https://arxiv.org/abs/2104.04282
+code: https://github.com/zxcvfd13502/DDAS_code
+---
+We propose an efficient differentiable search algorithm called Direct Differentiable Augmentation Search (DDAS). It exploits meta-learning with one-step gradient update and continuous relaxation to the expected training loss for efficient search.

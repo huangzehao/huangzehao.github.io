@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "You Only Search Once: Single Shot Neural Architecture Search via Direct Sparse Optimization"
+date:   2021-01-01 22:21:59 +00:00
+image: /images/dsonas.png
+categories: research
+author: "Zehao Huang"
+authors: "Xinbang Zhang*, <strong>Zehao Huang</strong>, Naiyan Wang, Shiming Xiang, Chunhong Pan"
+venue: "CVPR"
+arxiv: https://www.computer.org/csdl/journal/tp/2021/09/09181469/1mK3a5ERoTm
+code: https://github.com/XinbangZhang/DSO-NAS
+---
+We propose a model pruning formulation for Neural Architecture Search (NAS) based on sparse optimization.

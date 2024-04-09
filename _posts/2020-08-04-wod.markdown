@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "1st Place Solutions of Waymo Open Dataset Challenge 2020 -- 2D Object Detection Track"
+date:   2020-08-04 22:21:59 +00:00
+image: /images/wod.png
+categories: research
+author: "Zehao Huang"
+authors: "<strong>Zehao Huang</strong>, Zehui Chen<sup>+</sup>, Qiaofei Li<sup>+</sup>, Hongkai Zhang, Naiyan Wang"
+venue: "arxiv"
+arxiv: https://arxiv.org/abs/2008.01365
+---
+1st place solution of Waymo Open Dataset Challenge 2020 in 2D detection track.

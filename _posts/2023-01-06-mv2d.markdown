@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Object as Query: Lifting any 2D Object Detector to 3D Detection"
+date:   2023-01-06 22:21:59 +00:00
+image: /images/mv2d.png
+categories: research
+author: "Zehao Huang"
+authors: "Zitian Wang*, <strong>Zehao Huang</strong>, Jiahui Fu, Naiyan Wang, Si Liu"
+venue: "ICCV"
+arxiv: https://arxiv.org/abs/2301.02364
+code: https://github.com/tusen-ai/MV2D
+---
+We design Multi-View 2D Objects guided 3D Object Detector (MV2D), which can lift any 2D object detector to multi-view 3D object detection.

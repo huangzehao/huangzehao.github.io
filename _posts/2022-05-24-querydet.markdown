@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "QueryDet: Cascaded Sparse Query for Accelerating High-Resolution Small Object Detection"
+date:   2022-10-26 22:21:59 +00:00
+image: /images/querydet.png
+categories: research
+author: "Zehao Huang"
+authors: "Chenhongyi Yang*, <strong>Zehao Huang</strong>, Naiyan Wang"
+venue: "CVPR (Oral)"
+arxiv: https://arxiv.org/abs/2103.09136
+code: https://github.com/ChenhongyiYang/QueryDet-PyTorch
+---
+We propose QueryDet that uses a novel query mechanism to accelerate the inference speed of feature-pyramid based object detectors

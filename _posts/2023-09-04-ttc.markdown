@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "TSTTC: A Large-Scale Dataset for Time-to-Contact Estimation in Driving Scenarios"
+date:   2023-09-04 22:21:59 +00:00
+image: /images/ttc.gif
+categories: research
+author: "Zehao Huang"
+authors: "Yuheng Shi*, <strong>Zehao Huang</strong>, Yan Yan, Naiyan Wang, Xiaojie Guo"
+venue: "arXiv"
+arxiv: https://arxiv.org/abs/2309.01539
+code: https://github.com/tusen-ai/TSTTC
+website: https://open-dataset.tusen.ai/TSTTC
+---
+We construct a dataset for Time-to-Concact (TTC) Estimation in driving scenarios and provide several baseline methods.

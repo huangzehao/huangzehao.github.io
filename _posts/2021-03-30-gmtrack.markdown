@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Learnable Graph Matching: Incorporating Graph Partitioning with Deep Feature Learning for Multiple Object Tracking"
+date:   2021-03-30 22:21:59 +00:00
+image: /images/gmtrack.png
+categories: research
+author: "Zehao Huang"
+authors: "Jiawei He*, <strong>Zehao Huang</strong>, Naiyan Wang, Zhaoxiang Zhang"
+venue: "CVPR"
+arxiv: https://arxiv.org/abs/2103.16178
+code: https://github.com/jiaweihe1996/GMTracker
+---
+We propose a learnable graph matching method for object tracking.

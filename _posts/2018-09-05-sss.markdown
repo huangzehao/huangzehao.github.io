@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Data-Driven Sparse Structure Selection for Deep Neural Networks"
+date:   2018-09-05 22:21:59 +00:00
+image: /images/sss.png
+categories: research
+author: "Zehao Huang"
+authors: "<strong>Zehao Huang</strong>, Naiyan Wang"
+venue: "ECCV"
+arxiv: https://arxiv.org/abs/1707.01213
+---
+We propose a framework to learn and prune deep models in an end-to-end manner.
