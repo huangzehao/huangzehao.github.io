@@ -6,7 +6,7 @@ image: /images/dsonas.png
 categories: research
 author: "Zehao Huang"
 authors: "Xinbang Zhang*, <strong>Zehao Huang</strong>, Naiyan Wang, Shiming Xiang, Chunhong Pan"
-venue: "CVPR"
+venue: "TPAMI"
 arxiv: https://www.computer.org/csdl/journal/tp/2021/09/09181469/1mK3a5ERoTm
 code: https://github.com/XinbangZhang/DSO-NAS
 ---
