@@ -8,5 +8,6 @@ author: "Zehao Huang"
 authors: "<strong>Zehao Huang</strong>, Naiyan Wang"
 venue: "arxiv"
 arxiv: https://arxiv.org/abs/1707.01219
+code: https://github.com/TuSimple/neuron-selectivity-transfer
 ---
 We propose a framework for knowledge distillation by minimizing the Maximum Mean Discrepancy.

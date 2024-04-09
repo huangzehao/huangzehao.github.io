@@ -8,5 +8,6 @@ author: "Zehao Huang"
 authors: "<strong>Zehao Huang</strong>, Naiyan Wang"
 venue: "ECCV"
 arxiv: https://arxiv.org/abs/1707.01213
+code: https://github.com/TuSimple/sparse-structure-selection
 ---
 We propose a framework to learn and prune deep models in an end-to-end manner.
